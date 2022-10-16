@@ -2,9 +2,9 @@
    Our online Yoga training center website - [online-yoga-trainig](https://online-yoga-training-center.vercel.app/) 
 
 # Login Credentials
-  Username : user
-  Password : 1234
-Use aabove username and password to login into dashboard
+  Username : user\
+  Password : 1234\
+  Use above username and password to login into dashboard
 
 ## Available Scripts
 
