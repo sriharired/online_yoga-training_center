@@ -1,5 +1,5 @@
 # Online Yoga Training 
-   Our online Yoga training center website - [online-yoga-trainig](https://online-yoga-training-center.vercel.app/) 
+   Our online Yoga training center live website - [online-yoga-trainig](https://online-yoga-training-center.vercel.app/) 
 
 # Login Credentials
   Username : user\
