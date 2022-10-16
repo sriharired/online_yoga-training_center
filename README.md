@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Online Yoga Training 
+   Our online Yoga training center website - [online-yoga-trainig](https://online-yoga-training-center.vercel.app/) 
 
 # Login Credentials
   Username : user
